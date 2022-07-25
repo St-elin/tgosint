@@ -1,0 +1,17 @@
+[Telegram]
+api_id = <your api id here>
+api_hash = <your api hash here>
+username = <your telegram username>
+bot_token = <your bot token>
+chat_id = <your locked chat, where to send notifications>
+timeout = 3600 # not implemented yet, you can add it to run script as a daemon
+
+[Rocket]
+token = <token to your locked chat, where to send notifications>
+host = <RocketChat server>
+
+[Locations]
+data_path = <path to data dir>
+cache_path = <path to cache dir>
+commits_path = <path to commits dir>
+

@@ -1,0 +1,6 @@
+*.ini
+*.session
+patterns
+tg_links
+git_repos
+config.ini
