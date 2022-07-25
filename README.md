@@ -32,4 +32,4 @@ When you run the script firstly it would save the channels data in specific *dat
 5. `pip install -r requirements.txt`
 6. `python tgosint.py`
 
-# If you want to add any functionality feel free to do fork or do it by your own.
+# If you want to add any functionality feel free to do a fork or do it by your own.
